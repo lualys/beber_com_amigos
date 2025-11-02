@@ -12,7 +12,10 @@ Confira o app em funcionamento 👇
  **Versão demonstrativa no YouTube:**
 👉 [Assista à demonstração do aplicativo](https://youtube.com/shorts/6Upc4PmBDaY)
 
- **Captura de tela do app:** <img src="https://github.com/lualys/beber_com_amigos/raw/main/assets/demo/demo.png" width="400px"/>
+ **Captura de tela do app:** <p align="center">
+  <img src="https://github.com/lualys/beber_com_amigos/raw/main/assets/demo/demo.png" width="350px"/>
+</p>
+
 
 ## Funcionalidades Principais
 
