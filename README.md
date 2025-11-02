@@ -13,7 +13,7 @@ Confira o app em funcionamento 👇
 👉 [Assista à demonstração do aplicativo](https://youtube.com/shorts/6Upc4PmBDaY)
 
  **Captura de tela do app:** <p align="center">
-  <img src="https://github.com/lualys/beber_com_amigos/raw/main/assets/demo/demo.png" width="350px"/>
+  <img src="https://github.com/lualys/beber_com_amigos/raw/main/assets/demo/demo.png" width="200/>
 </p>
 
 
