@@ -1,0 +1,27 @@
+name: beber_com_amigos
+description: Jogo de cartas para beber com os amigos (com Device Preview)
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.5.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+  vector_math: ^2.1.4
+  audioplayers: ^6.1.0
+  device_preview: ^1.2.0
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/dados_perguntas.json
+    - assets/sounds/bell.mp3
